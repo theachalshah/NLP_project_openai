@@ -1,0 +1,5 @@
+pandas
+BeautifulSoup
+openai -q
+tiktoken
+langchain

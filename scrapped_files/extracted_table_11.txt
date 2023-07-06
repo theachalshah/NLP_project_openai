@@ -1,0 +1,21 @@
+ CHIPOTLE MEXICAN GRILL, INC. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES Adjusted General and Administrative Expenses (in thousands) (unaudited)
+﻿											
+﻿											
+﻿	Three months ended		Year ended
+﻿	December 31,		December 31,
+﻿	2022		2021		2022		2021
+General and administrative expenses	$	135,073		$	159,777		$	564,191		$	606,854
+Non-GAAP adjustments:											
+Restructuring expense(1)		(881)			(1,303)			(3,937)			(5,565)
+Legal proceedings(2)		(3,718)			(18,025)			(9,516)			(20,117)
+Stock-based compensation modification expense(3)		(1,117)			(7,619)			(7,411)			(63,077)
+Separation costs(4)		-			-			(3,538)			-
+Other adjustments(5)		-			-			-			(47)
+Total non-GAAP adjustments	$	(5,716)		$	(26,947)		$	(24,402)		$	(88,806)
+Adjusted general and administrative expenses	$	129,357		$	132,830		$	539,789		$	518,048
+﻿											
+(1) Duplicate rent expense for office and restaurant closures announced in June 2018 due to the corporate restructuring and underperformance of $881 and $3,937 for the three months and year ended December 31, 2022, respectively.
+(2) Charges related to estimated settlements for distinct legal matters that exceeded or are expected to exceed typical costs for these types of legal proceedings.
+(3) Charges for a COVID-19 related modification made in December 2020 to our 2018 performance shares.
+(4) Expenses related to an employee separation, which consist of incremental compensation costs net of forfeitures of stock-based compensation.
+(5) For the year ended December 31, 2021, other adjustments consist of consulting fees associated with the calculation of our non-recurring tax benefit.

@@ -1,0 +1,43 @@
+ C HIPOTLE MEXICAN GRILL, INC. C ONSOLIDATED BALANCE SHEETS (in thousands, except per share data)
+﻿					
+﻿					
+﻿	December 31,
+﻿	2022		2021
+﻿	(unaudited)		
+Assets					
+Current assets:					
+Cash and cash equivalents	$	384,000		$	815,374
+Accounts receivable, net		106,880			99,599
+Inventory		35,668			32,826
+Prepaid expenses and other current assets		86,412			78,756
+Income tax receivable		47,741			94,064
+Investments		515,136			260,945
+Total current assets		1,175,837			1,381,564
+Leasehold improvements, property and equipment, net		1,951,147			1,769,278
+Long-term investments		388,055			274,311
+Restricted cash		24,966			30,856
+Operating lease assets		3,302,402			3,118,294
+Other assets		63,158			56,716
+Goodwill		21,939			21,939
+Total assets	$	6,927,504		$	6,652,958
+Liabilities and shareholders' equity					
+Current liabilities:					
+Accounts payable	$	184,566		$	163,161
+Accrued payroll and benefits		170,456			162,405
+Accrued liabilities		147,539			173,052
+Unearned revenue		183,071			156,351
+Current operating lease liabilities		236,248			218,713
+Total current liabilities		921,880			873,682
+Long-term operating lease liabilities		3,495,162			3,301,601
+Deferred income tax liabilities		98,623			141,765
+Other liabilities		43,816			38,536
+Total liabilities		4,559,481			4,355,584
+Shareholders' equity:					
+Preferred stock, $0.01 par value, 600,000 shares authorized, no shares issued as of December 31, 2022 and December 31, 2021, respectively		-			-
+Common stock, $0.01 par value, 230,000 shares authorized, 37,320 and 37,132 shares issued as of December 31, 2022 and December 31, 2021, respectively		373			371
+Additional paid-in capital		1,829,304			1,729,312
+Treasury stock, at cost, 9,693 and 9,052 common shares as of December 31, 2022 and December 31, 2021, respectively		(4,282,014)			(3,356,102)
+Accumulated other comprehensive loss		(7,888)			(5,354)
+Retained earnings		4,828,248			3,929,147
+Total shareholders' equity		2,368,023			2,297,374
+Total liabilities and shareholders' equity	$	6,927,504		$	6,652,958

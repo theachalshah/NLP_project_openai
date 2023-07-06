@@ -1,0 +1,30 @@
+ C HIPOTLE MEXICAN GRILL, INC. C ONSOLIDATED STATEMENTS OF INCOME (in thousands, except per share data) ﻿ ﻿
+﻿											
+﻿											
+﻿	Year ended December 31,
+﻿	2022		2021
+﻿	(unaudited)									
+Food and beverage revenue	$	8,558,001		99.1	%		$	7,457,169		98.8	%
+Delivery service revenue		76,651		0.9				89,892		1.2	
+Total revenue		8,634,652		100.0				7,547,061		100.0	
+Restaurant operating costs (exclusive of depreciation and amortization shown separately below):											
+Food, beverage and packaging		2,602,245		30.1				2,308,631		30.6	
+Labor		2,197,958		25.5				1,917,761		25.4	
+Occupancy		460,425		5.3				416,606		5.5	
+Other operating costs		1,311,905		15.2				1,197,054		15.9	
+General and administrative expenses		564,191		6.5				606,854		8.0	
+Depreciation and amortization		286,826		3.3				254,657		3.4	
+Pre-opening costs		29,560		0.3				21,264		0.3	
+Impairment, closure costs, and asset disposals		21,139		0.2				19,291		0.3	
+Total operating expenses		7,474,249		86.6				6,742,118		89.3	
+Income from operations		1,160,403		13.4				804,943		10.7	
+Interest and other income, net		21,128		0.2				7,820		0.1	
+Income before income taxes		1,181,531		13.7				812,763		10.8	
+Benefit/(provision) for income taxes		(282,430)		(3.3)				(159,779)		(2.1)	
+Net income	$	899,101		10.4	%		$	652,984		8.7	%
+Earnings per share:											
+Basic	$	32.28					$	23.21			
+Diluted	$	32.04					$	22.90			
+Weighted-average common shares outstanding:											
+Basic		27,851						28,132			
+Diluted		28,062						28,511			

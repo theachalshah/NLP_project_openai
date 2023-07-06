@@ -1,0 +1,48 @@
+ C HIPOTLE MEXICAN GRILL, INC. C ONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands) ﻿ Operating activities Investing activities Financing activities Supplemental disclosures of cash flow information
+﻿					
+﻿					
+﻿	Year ended December 31,
+﻿	2022		2021
+﻿	(unaudited)		
+Operating activities					
+Net income	$	899,101		$	652,984
+Adjustments to reconcile net income to net cash provided by operating activities:					
+Depreciation and amortization		286,826			254,657
+Deferred income tax provision		(43,195)			(12,357)
+Impairment, closure costs, and asset disposals		20,738			17,086
+Provision for credit losses		(760)			493
+Stock-based compensation expense		98,030			176,392
+Other		(16,202)			(4,599)
+Changes in operating assets and liabilities:					
+Accounts receivable		(14,026)			(1,687)
+Inventory		(3,011)			(6,392)
+Prepaid expenses and other current assets		(14,660)			(26,826)
+Operating lease assets		234,273			223,837
+Other assets		(346)			3,993
+Accounts payable		18,208			21,440
+Accrued payroll and benefits		9,864			(44,555)
+Accrued liabilities		(27,964)			10,997
+Unearned revenue		33,374			34,387
+Income tax payable/receivable		46,262			193,379
+Operating lease liabilities		(207,186)			(207,164)
+Other long-term liabilities		3,853			(3,984)
+Net cash provided by operating activities		1,323,179			1,282,081
+Investing activities					
+Purchases of leasehold improvements, property and equipment		(479,164)			(442,475)
+Purchases of investments		(614,416)			(429,350)
+Maturities of investments		263,548			345,748
+Proceeds from sale of equipment		-			4,035
+Net cash used in investing activities		(830,032)			(522,042)
+Financing activities					
+Acquisition of treasury stock		(830,140)			(466,462)
+Tax withholding on stock-based compensation awards		(98,970)			(79,870)
+Other financing activities		(294)			(2,274)
+Net cash used in financing activities		(929,404)			(548,606)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash		(1,007)			(1,039)
+Net change in cash, cash equivalents, and restricted cash		(437,264)			210,394
+Cash, cash equivalents, and restricted cash at beginning of year		846,230			635,836
+Cash, cash equivalents, and restricted cash at end of year	$	408,966		$	846,230
+Supplemental disclosures of cash flow information					
+Income taxes paid (refunded)	$	275,796		$	(17,831)
+Purchases of leasehold improvements, property, and equipment accrued in accounts payable and accrued liabilities	$	72,021		$	63,802
+Acquisition of treasury stock accrued in accounts payable and accrued liabilities	$	4,497		$	7,695

@@ -1,0 +1,41 @@
+CHIPOTLE MEXICAN GRILL, INC. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES Adjusted Net Income and Adjusted Diluted Earnings p er Share (in thousands, except per share amounts) (unaudited) ﻿
+﻿											
+﻿											
+﻿	Three months ended		Year ended
+﻿	December 31,		December 31,
+﻿	2022		2021		2022		2021
+Net income	$	223,727		$	133,475		$	899,101		$	652,984
+Non-GAAP adjustments:											
+Restaurant costs:											
+Operating lease asset impairment and other restaurant costs(1)		-			1,090			1,738			3,722
+Duplicate rent expense(2)		-			12			-			152
+Corporate Restructuring:											
+Operating lease asset impairment and other office closure costs(3)		-			-			-			332
+Duplicate rent expense(2)		881			1,237			3,937			4,964
+Employee related restructuring costs(4)		-			54			-			449
+Legal proceedings(5)		3,718			18,025			9,516			20,117
+Stock-based compensation modification expense(6)		1,117			7,619			7,411			63,077
+Unrealized gain on equity investments(7)		-			-			(10,410)			-
+Separation costs(8)		-			-			3,538			-
+Other adjustments(9)		-			-			961			897
+Total non-GAAP adjustments	$	5,716		$	28,037		$	16,691		$	93,710
+Tax effect of non-GAAP adjustments above(10)		1,951			(2,434)			4,003			(6,492)
+Other tax non-GAAP adjustments(11)		-			-			-			(15,423)
+After tax impact of non-GAAP adjustments	$	7,667		$	25,603		$	20,694		$	71,795
+Adjusted net income	$	231,394		$	159,078		$	919,795		$	724,779
+﻿											
+Diluted weighted-average number of common shares outstanding		27,899			28,485			28,062			28,511
+Diluted earnings per share	$	8.02		$	4.69		$	32.04		$	22.90
+Adjusted diluted earnings per share	$	8.29		$	5.58		$	32.78		$	25.42
+﻿											
+(1) Operating lease asset impairment charges and other expenses for restaurants due to closures, relocations, or underperformance.
+(2) Duplicate rent expense for the corporate headquarter relocation and office consolidation announced in May 2018 and rent expense for closed restaurants announced in June 2018.
+(3) Asset impairment charges and other closure expenses for the corporate headquarter relocation and office consolidation announced in May 2018.
+(4) Costs for recruitment, relocation costs, third party and other employee-related costs.
+(5) Charges relate to estimated settlements for distinct legal matters that exceeded or are expected to exceed typical costs for these types of legal proceedings.
+(6) Charges for a COVID-19 related modification made in December 2020 to our 2018 performance shares.
+(7) Unrealized gain on equity investments based on a subsequent investment by an unrelated party in one of our investees, which subsequent investment represents an observable price change in an orderly transaction for a similar investment of the same issuer.
+(8) Expenses related to an employee separation, which consist of incremental compensation costs net of forfeitures of stock-based compensation.
+(9) For the year ended December 31, 2022, other adjustments consist of impairment for charges for certain corporate assets of $961. For the year ended December 31, 2021, other adjustments consist of asset impairment charges for equipment related to a discontinued restaurant initiative and certain corporate equipment of $850 and consulting fees associated with the calculation of our non-recurring tax benefit of $47.
+(10) Adjustments relate to the tax effect of non-GAAP adjustments, which were determined based on the nature of the underlying non-GAAP adjustments and their relevant jurisdictional tax rates.
+(11) Primarily relates to the tax benefit from the federal net operating loss generated on our federal income tax return and carried back to prior years. The tax benefit is due to the federal income tax rate differential between the 2021 and 2020 rate of 21% and the 2015-2017 rate of 35%.
